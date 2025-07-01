@@ -1,0 +1,17 @@
+header{
+    background-color: blueviolet;
+    font-size: medium; 
+    font-weight: bold;
+    border: solid 3px yellow;
+
+}
+main{
+    background-color: blueviolet;
+    padding-bottom: 60px;
+    padding-left: 300;
+    margin-top: 3opx;
+    align-items: center;
+
+
+    
+}
